@@ -2,4 +2,4 @@
 ;
 let mySize = 2;
 console.log(mySize);
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=1_index.js.map
